@@ -1,0 +1,10 @@
+D:\AI Project\bin\Debug\AI Project.exe.config
+D:\AI Project\bin\Debug\AI Project.exe
+D:\AI Project\bin\Debug\AI Project.pdb
+D:\AI Project\obj\Debug\AI Project.csproj.AssemblyReference.cache
+D:\AI Project\obj\Debug\AI_Project.Form1.resources
+D:\AI Project\obj\Debug\AI_Project.Properties.Resources.resources
+D:\AI Project\obj\Debug\AI Project.csproj.GenerateResource.cache
+D:\AI Project\obj\Debug\AI Project.csproj.CoreCompileInputs.cache
+D:\AI Project\obj\Debug\AI Project.exe
+D:\AI Project\obj\Debug\AI Project.pdb
